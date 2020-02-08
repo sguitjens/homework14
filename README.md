@@ -1,6 +1,3 @@
-# DEPLOY THIS TO HEROKU RIGHT AWAY
-# SUBMIT LINK TO HEROKU WHEN YOU SUBMIT THE ASSIGNMENT
-
 # Unit 14 Sequelize Homework: Reverse Engineering Code
 
 Reverse engineer the starter code provided and create a tutorial for the code.
